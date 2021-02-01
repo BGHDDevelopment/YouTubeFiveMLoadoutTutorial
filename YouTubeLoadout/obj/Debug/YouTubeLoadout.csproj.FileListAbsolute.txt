@@ -1,0 +1,9 @@
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLoadout\YouTubeLoadout\bin\Debug\YouTubeLoadout.net.dll
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLoadout\YouTubeLoadout\bin\Debug\YouTubeLoadout.net.pdb
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLoadout\YouTubeLoadout\bin\Debug\CitizenFX.Core.Client.dll
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLoadout\YouTubeLoadout\bin\Debug\CitizenFX.Core.Client.xml
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLoadout\YouTubeLoadout\obj\Debug\YouTubeLoadout.csprojAssemblyReference.cache
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLoadout\YouTubeLoadout\obj\Debug\YouTubeLoadout.csproj.CoreCompileInputs.cache
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLoadout\YouTubeLoadout\obj\Debug\YouTubeLoadout.csproj.CopyComplete
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLoadout\YouTubeLoadout\obj\Debug\YouTubeLoadout.net.dll
+C:\Users\steph\Desktop\Source\YouTubeLoadout\YouTubeLoadout\YouTubeLoadout\obj\Debug\YouTubeLoadout.net.pdb
